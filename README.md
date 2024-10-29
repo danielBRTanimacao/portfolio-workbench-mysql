@@ -1,6 +1,6 @@
 # Projeto portfolio spring web☕
 
-<img src="./img-redme/img-project.png" alt="img-project" />
+<img src="./img-project/img-project.png" alt="img-project" />
 
 > Projeto para criação de um banco de dados utilizando a linguagem SQL e realizar operações de manipulação e acesso aos dados
 
@@ -17,7 +17,7 @@ Antes de clonar o projeto e recomendado você ter os seguintes requisitos:
 
 As principais tecnologias e ferramentas utilizadas neste projeto são:
 
--   `SQL`: lorem.
+-   `SQL`: é uma linguagem de programação que permite gerenciar, consultar e manipular dados em bancos de dados relacionais.
 
 ## Como instalar 🚀
 
