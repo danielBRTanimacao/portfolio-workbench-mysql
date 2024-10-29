@@ -24,7 +24,9 @@ As principais tecnologias e ferramentas utilizadas neste projeto são:
 Windows, Linux e macOS
 
 ```
-git clone este projeto
+git clone https://github.com/danielBRTanimacao/portfolio-workbench-mysql.git
+
+cd portfolio-workbench-mysql
 ```
 
 ### Contato 📞
