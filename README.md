@@ -1,4 +1,4 @@
-# Projeto portfolio spring web☕
+# Projeto portfolio Workbench MySQL 💾
 
 <img src="./img-project/img-project.png" alt="img-project" />
 
